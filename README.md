@@ -1,3 +1,3 @@
 # merito-2025
-hello world
 edycja w przegladarce
+plik zmodyfikowany na branch-michal
